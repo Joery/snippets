@@ -1,0 +1,19 @@
+alias ga='git add'
+alias gaa='git add .'
+
+alias gc='git commit -m'
+alias gl='git log --oneline'
+alias gp='git pull'
+alias gs='git status'
+
+alias gco='git checkout'
+alias gcod='git checkout development'
+alias gcom='git checkout master'
+alias gcos='git checkout staging'
+
+alias gpo='git push origin'
+alias gpod='git push origin development'
+alias gpom='git push origin master'
+alias gpos='git push origin staging'
+
+alias nah='git reset --hard && git clean -df && git pull'
