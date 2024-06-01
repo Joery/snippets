@@ -1,0 +1,8 @@
+[Telegram SMS]
+https://api.telegram.org/botxxx/sendMessage?chat_id=xxx&text=Hello+World&user=User&password=Password&to=7777777777
+
+chat_id - Other
+text - Message Content
+user - Username
+password - Password
+to - Phone Number
